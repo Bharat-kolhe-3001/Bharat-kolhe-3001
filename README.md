@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Next.js, AI & Cloud Computing**
 - ⚡ Fun fact: I talk to computers… and they reply! 😆
 - 📫 Reach me at: **bharatkolhe20@gmail.com**
-- 💬 Ask me about **JavaScript, Node.js, and Python**
+
 
 ---
 
