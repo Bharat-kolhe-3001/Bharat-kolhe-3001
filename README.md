@@ -1,39 +1,61 @@
 ![logo](GitHubBlue.jpg)
-<h1 align ="center">Hi There😉</h1>
 
-🚀 Hey GitHub Enthusiasts ! Here is Sam From Planet Earth 🌏 How Are You Mate !
+<h1 align="center">✨ Welcome to My Space 🚀</h1>
+<h3 align="center">Hey there! I'm Sam from Planet Earth 🌍 – How’s it going, mate? 😉</h3>
 
-## Languages & Tools
+---
+
+## 🚀 About Me
+- 💻 Passionate about **Web Development & Open Source**
+- 🌱 Currently learning **Next.js, AI & Cloud Computing**
+- ⚡ Fun fact: I talk to computers… and they reply! 😆
+- 📫 Reach me at: **bharatkolhe20@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
-    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
-    <br>
-</div>
-<h2 align ="center">⚡️Stats⚡️</h2>
-<!-- GitHub Stats -->
-<a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Iambharatkolhe&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&count_private=true&border_radius=20" alt="GitHub Stats" />
-</a>
-
-<!-- GitHub Contributions Graph -->
-<a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iambharatkolhe&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=20" alt="GitHub Streak Stats" />
-</a>
-
-
-<div align="center">
-  <h3> Hope Loved The Profile Show Some Love ❤️ By Staring Some Repos</h3>
-   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
-  
-</div>
-<hr>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iambharatkolhe&style=for-the-badge&color=orange" alt=""/>
+    <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,python" />
+    <img src="https://skillicons.dev/icons?i=java,aws,arduino,cpp,ubuntu" />
 </div>
 
-<hr>
+---
+
+## ⚡ GitHub Stats
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<a href="https://github.com/Iambharatkolhe">
+    <img src="https://github-readme-stats.vercel.app/api?username=Iambharatkolhe&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20" height="180" />
+</a>
+<a href="https://github.com/Iambharatkolhe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iambharatkolhe&theme=radical&hide_border=true&border_radius=20" height="180" />
+</a>
+</p>
+
+---
+
+## 🐍 Watch My Contributions Come Alive
+<p align="center">
+    <img src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌟 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:bharatkolhe20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge"></a>
+</p>
+
+---
+
+<div align="center">
+  <h3>💖 If you like my work, show some love by ⭐ starring my repositories!</h3>
+  <img src="https://komarev.com/ghpvc/?username=Iambharatkolhe&style=for-the-badge&color=orange" alt="Profile views"/>
+</div>
+
+---
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
