@@ -27,11 +27,11 @@
 
 ## ⚡ GitHub Stats
 <p align="center">
-<a href="https://github.com/Iambharatkolhe">
-    <img src="https://github-readme-stats.vercel.app/api?username=Iambharatkolhe&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20" height="180" />
+<a href="https://github.com/Bharat-kolhe-3001">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bharat-kolhe-3001&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20" height="180" />
 </a>
-<a href="https://github.com/Iambharatkolhe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iambharatkolhe&theme=radical&hide_border=true&border_radius=20" height="180" />
+<a href="https://github.com/Bharat-kolhe-3001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-kolhe-3001&theme=radical&hide_border=true&border_radius=20" height="180" />
 </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iambharatkolhe&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharat-kolhe-3001&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -55,14 +55,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="mailto:bharatkolhe20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://github.com/Iambharatkolhe"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge"></a>
+  <a href="https://github.com/Bharat-kolhe-3001"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge"></a>
 </p>
 
 ---
 
 <div align="center">
   <h3>💖 If you like my work, show some love by ⭐ starring my repositories!</h3>
-  <img src="https://komarev.com/ghpvc/?username=Iambharatkolhe&style=for-the-badge&color=orange" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bharat-kolhe-3001&style=for-the-badge&color=orange" alt="Profile views"/>
 </div>
 
 ---
