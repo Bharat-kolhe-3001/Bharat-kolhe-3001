@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Bharat+Kolhe" alt="Typing Animation" />
 </h1>
 
-About Me 
-[<img src="Assets/stats.gif" height="35"/>](https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/stats.gif)
-
+###  About Me  <img  src="Assets/stats.gif" height="35"/>
 
 I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
 
