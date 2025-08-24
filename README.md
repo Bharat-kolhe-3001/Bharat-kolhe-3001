@@ -4,26 +4,76 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Bharat+Kolhe" alt="Typing Animation" />
 </h1>
 
-
----
-
-## 🚀 About Me
-- 💻 Passionate about **Web Development & Open Source**
-- 🌱 Currently learning **Next.js, AI & Cloud Computing**
-- ⚡ Fun fact: I talk to computers… and they reply! 😆
-- 📫 Reach me at: **bharatkolhe20@gmail.com**
+About Me 
+[<img src="Assets/stats.gif" height="35"/>](https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/stats.gif)
 
 
----
+I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
 
-## 🛠️ Languages & Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,python" />
-    <img src="https://skillicons.dev/icons?i=java,aws,arduino,cpp,ubuntu" />
 </div>
+<img src="Assets/CLine.gif">
 
----
+<!-- ====== TECH STACK ====== -->
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+
+<img  src="Assets/stats.gif" height="35"/>
+
 
 ## ⚡ GitHub Stats
 <p align="center">
@@ -37,11 +87,7 @@
 
 ---
 
-## ​ GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharat-Kolhe-3001&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 
 ## 🐍 Watch My Contributions Come Alive
@@ -67,6 +113,4 @@
 
 ---
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+ 
