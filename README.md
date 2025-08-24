@@ -70,7 +70,7 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 </table>
 
 
-<img  src="Assets/stats.gif" height="35"/>
+ 
 
 
 ## ⚡ GitHub Stats
