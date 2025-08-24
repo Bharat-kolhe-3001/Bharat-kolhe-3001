@@ -37,12 +37,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ​ GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharat-kolhe-3001&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharat-Kolhe-3001&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
 
 ## 🐍 Watch My Contributions Come Alive
 <p align="center">
