@@ -17,7 +17,7 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="C plus plus" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -75,13 +75,14 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 ## ⚡ GitHub Stats
 <p align="center">
-<a href="https://github.com/Bharat-kolhe-3001">
+  <a href="https://github.com/Bharat-kolhe-3001">
     <img src="https://github-readme-stats.vercel.app/api?username=Bharat-kolhe-3001&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20" height="180" />
-</a>
-<a href="https://github.com/Bharat-kolhe-3001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-kolhe-3001&theme=radical&hide_border=true&border_radius=20" height="180" />
-</a>
+  </a>
+  <a href="https://github.com/Bharat-kolhe-3001">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Bharat-kolhe-3001&theme=radical&hide_border=true&border_radius=20" height="180" />
+  </a>
 </p>
+
 
 ---
 
