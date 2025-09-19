@@ -97,12 +97,12 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 </p>
 
 ---
-## Conect With Me
+## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://x.com/Bharat-kolhe-3001"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
-  <a href="mailto:bharatkolhe20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-  <a href="https://www.instagram.com/bharat_kolhe_3001/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+  <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right:15px;" /></a>
+  <a href="https://x.com/Bharat-kolhe-3001"><img src="https://skillicons.dev/icons?i=twitter" height="35" style="margin-right:15px;" /></a>
+  <a href="mailto:bharatkolhe20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" style="margin-right:15px;" /></a>
+  <a href="https://www.instagram.com/bharat_kolhe_3001/"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
 </p>
 
 ---
