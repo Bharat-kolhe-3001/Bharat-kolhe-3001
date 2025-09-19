@@ -97,7 +97,7 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 </p>
 
 ---
-##Conect With Me
+## Conect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
   <a href="https://x.com/Bharat-kolhe-3001"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
