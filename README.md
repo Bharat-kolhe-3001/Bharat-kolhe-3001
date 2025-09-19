@@ -98,11 +98,11 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 ---
 
-## 🌟 Let’s Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:bharatkolhe20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://github.com/Bharat-kolhe-3001"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/Bharat-kolhe-3001"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:bharatkolhe20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.instagram.com/bharat_kolhe_3001/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
