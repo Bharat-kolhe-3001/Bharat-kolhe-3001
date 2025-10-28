@@ -88,7 +88,9 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 </p>
 
 </div>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-kolhe-3001&theme=react-dark&hide_border=true&area=true&custom_title=Last%20Year%20Contributions" width="95%"/>
+</div>
 ---
 
 ## 🐍 Watch My Contributions Come Alive
@@ -96,7 +98,6 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
     <img src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/bharat-kolhe-4b1964288/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right:50px;" /></a>
