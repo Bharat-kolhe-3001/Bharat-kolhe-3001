@@ -96,7 +96,7 @@ I am Bharat, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 ## 🐍 Watch My Contributions Come Alive
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat-kolhe-3001/Bharat-kolhe-3001/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/github-snake.svg"/>
 </p>
 
 ## Connect With Me
